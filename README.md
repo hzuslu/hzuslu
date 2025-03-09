@@ -32,7 +32,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/hzuslu" target="_blank">
+  <a href="https://www.instagram.com/hasnusllu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/hasan-uslu-308a30223" target="_blank">
